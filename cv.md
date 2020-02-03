@@ -4,7 +4,7 @@
 * yurii.androsiuk@gmail.com
 
 ### Summary
-I develop content sites in Jekyll and study at htmlacademy (html, css and javascript), udemy (javascript).
+I develop content sites in Jekyll and study at htmlacademy (html, css and javascript), udemy (javascript), youtube.
 
 ### Skills
 * html
