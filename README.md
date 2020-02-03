@@ -1,1 +1,1 @@
-# rsschool-cv
+https://boiarka.github.io/rsschool-cv/cv
